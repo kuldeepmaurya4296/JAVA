@@ -126,7 +126,7 @@ https://drive.google.com/drive/folders/1M3fU949yoqMpxnUXnA7A7TKVDNMFD6s7
 	  *   *
 	    *
 	 *     *
-               *          *
+       *          *
 --------------------------------------------------------------------ARRAY-------------------------------------------------------------
 54- Accept size n from user and create a n size array then take n inputs into the and finally 
       Print the sum & Mean of all elements.
